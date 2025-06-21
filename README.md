@@ -1,10 +1,3 @@
-# Project-Team-5
-#### Bijie Qiu
-#### Manvitha Challagundla
-#### Raghvendra Dixit
-#### Shilakha Dawar
-
-## Smart House
 
 Home Assistant allows you to control all your devices without storing any of your data in the cloud. Its an home automation hub where different devices with different protocols communicate with each other. This means you can link all your devices in just one place and build cool automations based on the state of all your devices.
 
